@@ -38,6 +38,8 @@
 * [36.&#32;Biforcations.pdf](36.&#32;Biforcations.pdf)
 
 
+## Exercises
+
 Pay attention: the following sections may present some errors but they are useful for the
 procedures used in solving the exercises.
 
