@@ -1,5 +1,5 @@
 # Control Engineering Notes
-Notes taken and studied during the M.Sc. in Control Engineering (MCER) @ Sapienza University of Rome.
+Course material and notes taken and studied during the M.Sc. in Control Engineering (MCER) @ Sapienza University of Rome.
 
 You're free to use these notes for your own studies but no guarantees are given, not even the guarantee that the content is correct and matches the course.
 
