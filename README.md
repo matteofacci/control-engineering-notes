@@ -3,6 +3,14 @@ Notes taken and studied during the M.Sc. in Control Engineering (MCER) @ Sapienz
 
 You're free to use these notes for your own studies but no guarantees are given, not even the guarantee that the content is correct and matches the course.
 
+
+:earth_africa: You can access all my open-source projects here on GitHub
+  
+  If you like what I do, please consider buying me a coffee/tea :smiley:
+
+<a href="https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 <!--- 
 
 ## 📚 **Content**
@@ -24,3 +32,7 @@ You're free to use these notes for your own studies but no guarantees are given,
 
 --->
 
+## 📚 **Content**
+| Course | Professor/s | Academic Year |
+|:-------|:------------|:-------------:|
+|[Nonlinear Systems and Control - Part I](nonlinear-systems-control-1/README.md)| Salvatore Monaco |2019-2020|
