@@ -1,0 +1,25 @@
+# Robotics II
+
+Lecture slides.
+
+* [00&#32;-&#32;Introduction.pdf](00&#32;-&#32;Introduction.pdf)
+* [01&#32;-&#32;Kinematic&#32;Calibration.pdf](01&#32;-&#32;Kinematic&#32;Calibration.pdf)
+* [02.1&#32;-&#32;Robots&#32;with&#32;kinematic&#32;redundancy&#32;Fundamentals.pdf](02.1&#32;-&#32;Robots&#32;with&#32;kinematic&#32;redundancy&#32;Fundamentals.pdf)
+* [02.2&#32;-&#32;Robots&#32;with&#32;kinematic&#32;redundancy&#32;extensions.pdf](02.2&#32;-&#32;Robots&#32;with&#32;kinematic&#32;redundancy&#32;extensions.pdf)
+* [03&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Lagrangian&#32;approach.pdf](03&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Lagrangian&#32;approach.pdf)
+* [04&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Algorithm&#32;for&#32;computing&#32;kinetic&#32;energy.pdf](04&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Algorithm&#32;for&#32;computing&#32;kinetic&#32;energy.pdf)
+* [05.1&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Analysis,&#32;properties,&#32;extensions,&#32;uses.pdf](05.1&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Analysis,&#32;properties,&#32;extensions,&#32;uses.pdf)
+* [05.2&#32;-&#32;Linear&#32;parametrization&#32;and&#32;identification&#32;of&#32;robot&#32;dynamics.pdf](05.2&#32;-&#32;Linear&#32;parametrization&#32;and&#32;identification&#32;of&#32;robot&#32;dynamics.pdf)
+* [06&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Newton-Euler&#32;approach.pdf](06&#32;-&#32;Dynamic&#32;model&#32;of&#32;robots&#32;Newton-Euler&#32;approach.pdf)
+* [07&#32;-&#32;Introduction&#32;to&#32;Control.pdf](07&#32;-&#32;Introduction&#32;to&#32;Control.pdf)
+* [08&#32;-&#32;Position&#32;Regulation&#32;(with&#32;an&#32;introduction&#32;to&#32;stability).pdf](08&#32;-&#32;Position&#32;Regulation&#32;(with&#32;an&#32;introduction&#32;to&#32;stability).pdf)
+* [09&#32;-&#32;Iterative&#32;Learning&#32;for&#32;Gravity&#32;Compensation.pdf](09&#32;-&#32;Iterative&#32;Learning&#32;for&#32;Gravity&#32;Compensation.pdf)
+* [10&#32;-&#32;Trajectory&#32;Tracking&#32;Control.pdf](10&#32;-&#32;Trajectory&#32;Tracking&#32;Control.pdf)
+* [12&#32;-&#32;Adaptive&#32;Trajectory&#32;Control.pdf](12&#32;-&#32;Adaptive&#32;Trajectory&#32;Control.pdf)
+* [13&#32;-&#32;Control&#32;in&#32;the&#32;Cartesian&#32;Space.pdf](13&#32;-&#32;Control&#32;in&#32;the&#32;Cartesian&#32;Space.pdf)
+* [14&#32;-&#32;Robot&#32;Interaction&#32;with&#32;the&#32;Environment.pdf](14&#32;-&#32;Robot&#32;Interaction&#32;with&#32;the&#32;Environment.pdf)
+* [15&#32;-&#32;Impedance&#32;Control.pdf](15&#32;-&#32;Impedance&#32;Control.pdf)
+* [16&#32;-&#32;Hybrid&#32;ForceMotion&#32;Control.pdf](16&#32;-&#32;Hybrid&#32;ForceMotion&#32;Control.pdf)
+* [17&#32;-&#32;Visual&#32;servoing.pdf](17&#32;-&#32;Visual&#32;servoing.pdf)
+* [18&#32;-&#32;Detection&#32;and&#32;isolation&#32;of&#32;robot&#32;actuator&#32;faults.pdf](18&#32;-&#32;Detection&#32;and&#32;isolation&#32;of&#32;robot&#32;actuator&#32;faults.pdf)
+* [19&#32;-&#32;Collision&#32;detection&#32;and&#32;robot&#32;reaction.pdf](19&#32;-&#32;Collision&#32;detection&#32;and&#32;robot&#32;reaction.pdf)
