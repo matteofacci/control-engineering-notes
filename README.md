@@ -1,5 +1,5 @@
 # Control Engineering Notes
-Notes taken and studied during the M.Sc. in Control Engineering (MCER) @ Sapienza University of Rome.
+Course material and notes taken and studied during the M.Sc. in Control Engineering (MCER) @ Sapienza University of Rome.
 
 You're free to use these notes for your own studies but no guarantees are given, not even the guarantee that the content is correct and matches the course.
 
@@ -35,4 +35,6 @@ You're free to use these notes for your own studies but no guarantees are given,
 ## 📚 **Content**
 | Course | Professor/s | Academic Year |
 |:-------|:------------|:-------------:|
+|[Machine Learning](machine-learning/README.md)| Luca Iocchi, Fabio Patrizi |2020-2021|
 |[Nonlinear Systems and Control - Part I](nonlinear-systems-control-1/README.md)| Salvatore Monaco |2019-2020|
+|[Nonlinear Systems and Control - Part II](nonlinear-systems-control-2/README.md)| Salvatore Monaco |2019-2020|
