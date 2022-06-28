@@ -35,6 +35,6 @@ Pay attention: there may be some errors.
 
 * [8&#32;-&#32;HUMANOID&#32;ROBOTS.pdf](8&#32;-&#32;HUMANOID&#32;ROBOTS.pdf)
 
-###Exercises
+### Exercises
 
 * [Humanoids&#32;exercises.pdf](Humanoids&#32;exercises.pdf)
