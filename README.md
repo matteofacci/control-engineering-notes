@@ -21,5 +21,6 @@ You're free to use these notes for your own studies but no guarantees are given,
 |[Nonlinear Systems and Control - Part I](nonlinear-systems-control-1/README.md)| Salvatore Monaco |2019-2020|
 |[Nonlinear Systems and Control - Part II](nonlinear-systems-control-2/README.md)| Salvatore Monaco |2019-2020|
 |[Optimal Control](optimal-control/README.md)| Daniela Iacoviello |2019-2020|
+|[Optimal Filtering](optimal-filtering/README.md)| Stefano Battilotti |2019-2020|
 |[Robotics I](robotics-1/README.md)| Alessandro De Luca |2019-2020|
 |[Robotics II](robotics-2/README.md)| Alessandro De Luca |2019-2020|
